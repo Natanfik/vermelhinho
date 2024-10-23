@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697039378536",
+    "project_id": "vermelhinho-35552",
+    "storage_bucket": "vermelhinho-35552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697039378536:android:d46d7c68dbde927cde03dd",
+        "android_client_info": {
+          "package_name": "com.app.vermelhinho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGAsdjAOuZ8GwkpTR0Ch_832L14bWnCGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
